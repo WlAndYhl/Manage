@@ -1,0 +1,7 @@
+export const SETEDITTYPE = 'SETEDITTYPE'
+export const SETCONDITIONS = 'SETCONDITIONS'
+export const SETSEARCH = 'SETSEARCH'
+export const SETTOTAL = 'SETTOTAL'
+export const SETDATA = 'SETDATA'
+export const SETTITLE = 'SETTITLE'
+export const DIAL = 'DIAL'
